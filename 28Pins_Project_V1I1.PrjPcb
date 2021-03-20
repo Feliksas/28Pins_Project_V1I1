@@ -30,7 +30,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for 28Pins_Project_V1I1
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -49,8 +49,8 @@ AnnotateScope=All
 AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -66,8 +66,8 @@ AnnotateScope=All
 AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -83,8 +83,8 @@ AnnotateScope=All
 AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -151,8 +151,8 @@ AnnotateScope=All
 AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -168,8 +168,8 @@ AnnotateScope=All
 AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -192,21 +192,322 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+UniqueID=2E9A094E-91C1-495B-987B-3F005A244EAA
+Description=FIXED 5V
+AllowFabrication=0
+ParameterCount=0
+VariationCount=5
+Variation1=Designator=JP2|UniqueId=\OYEXGZMK|Kind=1|AlternatePart= 
+Variation2=Designator=R26|UniqueId=\JZMDEVIB|Kind=1|AlternatePart= 
+Variation3=Designator=JP4|UniqueId=\ZBHLCBMD|Kind=1|AlternatePart= 
+Variation4=Designator=LINK3|UniqueId=\PBYBUIZL|Kind=1|AlternatePart= 
+Variation5=Designator=R28|UniqueId=\BGLCXGPA|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant2]
+UniqueID=0742CF42-71C3-44E2-AA13-5899F2B303F0
+Description=5V/3V3
+AllowFabrication=0
+ParameterCount=0
+VariationCount=6
+Variation1=Designator=Y1|UniqueId=\SASDYWWE|Kind=2|AlternatePart=ABM7-10.000MHZ-D2Y-T|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\Public\Documents\Altium\Projects\28Pins_Project_V1I1\28Pins_Project_V1I1.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=ABM7-10.000MHZ-D2Y-T|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=28Pins_Project_V1I1.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=ABM7_v1_1_BIG|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Case/Package|VariantValue=SMD/SMT
+ParamDesignator1=Y1
+ParamVariation2=ParameterName=Category|VariantValue=Crystals
+ParamDesignator2=Y1
+ParamVariation3=ParameterName=Comment|VariantValue=ABM7-10.000MHZ-D2Y-T
+ParamDesignator3=Y1
+ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator4=Y1
+ParamVariation5=ParameterName=ComponentLink1Description|VariantValue=https://datasheet.ciiva.com/16397/abm7-16397372.pdf?src-supplier=Future+Electronics
+ParamDesignator5=Y1
+ParamVariation6=ParameterName=ComponentLink1URL|VariantValue=https://datasheet.ciiva.com/16397/abm7-16397372.pdf?src-supplier=Future+Electronics
+ParamDesignator6=Y1
+ParamVariation7=ParameterName=Description|VariantValue=CRYSTAL 10.0000MHZ 18PF SMD
+ParamDesignator7=Y1
+ParamVariation8=ParameterName=Footprint|VariantValue=ABM7_v1_1_BIG
+ParamDesignator8=Y1
+ParamVariation9=ParameterName=Frequency|VariantValue=10MHz
+ParamDesignator9=Y1
+ParamVariation10=ParameterName=Frequency Stability|VariantValue=30ppm
+ParamDesignator10=Y1
+ParamVariation11=ParameterName=Frequency Tolerance|VariantValue=20ppm
+ParamDesignator11=Y1
+ParamVariation12=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator12=Y1
+ParamVariation13=ParameterName=Lead Free|VariantValue=Lead Free
+ParamDesignator13=Y1
+ParamVariation14=ParameterName=Library Reference|VariantValue=ABM7-10.000MHZ-D2Y-T
+ParamDesignator14=Y1
+ParamVariation15=ParameterName=Load Capacitance|VariantValue=18pF
+ParamDesignator15=Y1
+ParamVariation16=ParameterName=Manufacturer|VariantValue=Abracon
+ParamDesignator16=Y1
+ParamVariation17=ParameterName=Manufacturer Part Number|VariantValue=ABM7-10.000MHZ-D2Y-T
+ParamDesignator17=Y1
+ParamVariation18=ParameterName=Max Operating Temperature|VariantValue=85°C
+ParamDesignator18=Y1
+ParamVariation19=ParameterName=Min Operating Temperature|VariantValue=-40°C
+ParamDesignator19=Y1
+ParamVariation20=ParameterName=Mount|VariantValue=Surface Mount
+ParamDesignator20=Y1
+ParamVariation21=ParameterName=PCB3D|VariantValue= 
+ParamDesignator21=Y1
+ParamVariation22=ParameterName=Pin Info|VariantValue= 
+ParamDesignator22=Y1
+ParamVariation23=ParameterName=Pricing 1|VariantValue=1=0.87000, 10=0.77300, 50=0.72240, 100=0.63840, 500=0.60480 (USD)
+ParamDesignator23=Y1
+ParamVariation24=ParameterName=RoHS|VariantValue=Yes
+ParamDesignator24=Y1
+ParamVariation25=ParameterName=Series Resistance|VariantValue=60R
+ParamDesignator25=Y1
+ParamVariation26=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator26=Y1
+ParamVariation27=ParameterName=Simulation|VariantValue= 
+ParamDesignator27=Y1
+ParamVariation28=ParameterName=Stock 1|VariantValue=83
+ParamDesignator28=Y1
+ParamVariation29=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator29=Y1
+ParamVariation30=ParameterName=Supplier Part Number 1|VariantValue=535-9833-1-ND
+ParamDesignator30=Y1
+Variation2=Designator=Y2|UniqueId=\AWMBQGWJ|Kind=2|AlternatePart=ABM7-8.000MHZ-D2Y-T|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\Public\Documents\Altium\Projects\28Pins_Project_V1I1\28Pins_Project_V1I1.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=ABM7-8.000MHZ-D2Y-T|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=28Pins_Project_V1I1.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=ABM7_v1_1_BIG|AltLibLink_IsSameFootprint=True
+ParamVariation31=ParameterName=Case/Package|VariantValue=CSMD
+ParamDesignator31=Y2
+ParamVariation32=ParameterName=Category|VariantValue=Crystals
+ParamDesignator32=Y2
+ParamVariation33=ParameterName=Comment|VariantValue=ABM7-8.000MHZ-D2Y-T
+ParamDesignator33=Y2
+ParamVariation34=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator34=Y2
+ParamVariation35=ParameterName=ComponentLink1Description|VariantValue=https://datasheet.ciiva.com/15116/getdatasheetpartid-722403-15116844.pdf?src-supplier=Verical
+ParamDesignator35=Y2
+ParamVariation36=ParameterName=ComponentLink1URL|VariantValue=https://datasheet.ciiva.com/15116/getdatasheetpartid-722403-15116844.pdf?src-supplier=Verical
+ParamDesignator36=Y2
+ParamVariation37=ParameterName=ComponentLink2Description|VariantValue=https://datasheet.ciiva.com/1357/1718755-1357277.pdf?src-supplier=Element14
+ParamDesignator37=Y2
+ParamVariation38=ParameterName=ComponentLink2URL|VariantValue=https://datasheet.ciiva.com/1357/1718755-1357277.pdf?src-supplier=Element14
+ParamDesignator38=Y2
+ParamVariation39=ParameterName=ComponentLink3Description|VariantValue=https://datasheet.ciiva.com/4944/abm7-19096-4944987.pdf?src-supplier=Mouser
+ParamDesignator39=Y2
+ParamVariation40=ParameterName=ComponentLink3URL|VariantValue=https://datasheet.ciiva.com/4944/abm7-19096-4944987.pdf?src-supplier=Mouser
+ParamDesignator40=Y2
+ParamVariation41=ParameterName=ComponentLink4Description|VariantValue=https://datasheet.ciiva.com/29998/abm7-29998171.pdf?src-supplier=Avnet
+ParamDesignator41=Y2
+ParamVariation42=ParameterName=ComponentLink4URL|VariantValue=https://datasheet.ciiva.com/29998/abm7-29998171.pdf?src-supplier=Avnet
+ParamDesignator42=Y2
+ParamVariation43=ParameterName=ComponentLink5Description|VariantValue=https://datasheet.ciiva.com/16416/abm7-16416924.pdf?src-supplier=Future+Electronics
+ParamDesignator43=Y2
+ParamVariation44=ParameterName=ComponentLink5URL|VariantValue=https://datasheet.ciiva.com/16416/abm7-16416924.pdf?src-supplier=Future+Electronics
+ParamDesignator44=Y2
+ParamVariation45=ParameterName=Depth|VariantValue=3.5mm
+ParamDesignator45=Y2
+ParamVariation46=ParameterName=Description|VariantValue=ABRACON - ABM7-8.000MHZ-D2Y-T - Crystal, Miniature, 8 MHz, SMD, 6mm x 3.5mm, 30 ppm, 18 pF, 20 ppm, ABM7 Series
+ParamDesignator46=Y2
+ParamVariation47=ParameterName=ESR (Equivalent Series Resistance)|VariantValue=100R
+ParamDesignator47=Y2
+ParamVariation48=ParameterName=Footprint|VariantValue=ABM7_v1_1_BIG
+ParamDesignator48=Y2
+ParamVariation49=ParameterName=Frequency|VariantValue=8MHz
+ParamDesignator49=Y2
+ParamVariation50=ParameterName=Frequency Stability|VariantValue=30ppm
+ParamDesignator50=Y2
+ParamVariation51=ParameterName=Frequency Tolerance|VariantValue=20ppm
+ParamDesignator51=Y2
+ParamVariation52=ParameterName=Height|VariantValue=0.055inch
+ParamDesignator52=Y2
+ParamVariation53=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator53=Y2
+ParamVariation54=ParameterName=Lead Free|VariantValue=Lead Free
+ParamDesignator54=Y2
+ParamVariation55=ParameterName=Length|VariantValue=6mm
+ParamDesignator55=Y2
+ParamVariation56=ParameterName=Library Reference|VariantValue=ABM7-8.000MHZ-D2Y-T
+ParamDesignator56=Y2
+ParamVariation57=ParameterName=Load Capacitance|VariantValue=18pF
+ParamDesignator57=Y2
+ParamVariation58=ParameterName=Manufacturer|VariantValue=Abracon
+ParamDesignator58=Y2
+ParamVariation59=ParameterName=Manufacturer Part Number|VariantValue=ABM7-8.000MHZ-D2Y-T
+ParamDesignator59=Y2
+ParamVariation60=ParameterName=Max Operating Temperature|VariantValue=85°C
+ParamDesignator60=Y2
+ParamVariation61=ParameterName=Min Operating Temperature|VariantValue=-40°C
+ParamDesignator61=Y2
+ParamVariation62=ParameterName=Mount|VariantValue=Surface Mount
+ParamDesignator62=Y2
+ParamVariation63=ParameterName=Number of Pins|VariantValue=2
+ParamDesignator63=Y2
+ParamVariation64=ParameterName=Package Quantity|VariantValue=1000
+ParamDesignator64=Y2
+ParamVariation65=ParameterName=Packaging|VariantValue=Tape and Reel
+ParamDesignator65=Y2
+ParamVariation66=ParameterName=PCB3D|VariantValue= 
+ParamDesignator66=Y2
+ParamVariation67=ParameterName=Pin Info|VariantValue= 
+ParamDesignator67=Y2
+ParamVariation68=ParameterName=Pricing 1|VariantValue=1=0.87000, 10=0.77300, 50=0.72240, 100=0.63840, 500=0.60480 (USD)
+ParamDesignator68=Y2
+ParamVariation69=ParameterName=Radiation Hardening|VariantValue=No
+ParamDesignator69=Y2
+ParamVariation70=ParameterName=REACH SVHC|VariantValue=Yes
+ParamDesignator70=Y2
+ParamVariation71=ParameterName=Resistor Type|VariantValue=Ceramic
+ParamDesignator71=Y2
+ParamVariation72=ParameterName=RoHS|VariantValue=Yes
+ParamDesignator72=Y2
+ParamVariation73=ParameterName=Series Resistance|VariantValue=80R
+ParamDesignator73=Y2
+ParamVariation74=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator74=Y2
+ParamVariation75=ParameterName=Simulation|VariantValue= 
+ParamDesignator75=Y2
+ParamVariation76=ParameterName=Stock 1|VariantValue=144283
+ParamDesignator76=Y2
+ParamVariation77=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator77=Y2
+ParamVariation78=ParameterName=Supplier Part Number 1|VariantValue=535-9831-1-ND
+ParamDesignator78=Y2
+ParamVariation79=ParameterName=Termination|VariantValue=SMD/SMT
+ParamDesignator79=Y2
+ParamVariation80=ParameterName=Tolerance|VariantValue=20ppm
+ParamDesignator80=Y2
+ParamVariation81=ParameterName=Width|VariantValue=0.138inch
+ParamDesignator81=Y2
+Variation3=Designator=JP2|UniqueId=\OYEXGZMK|Kind=1|AlternatePart= 
+Variation4=Designator=R26|UniqueId=\JZMDEVIB|Kind=1|AlternatePart= 
+Variation5=Designator=R27|UniqueId=\OZXYZPYF|Kind=1|AlternatePart= 
+Variation6=Designator=R28|UniqueId=\BGLCXGPA|Kind=1|AlternatePart= 
+ParamVariationCount=81
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\BOM\28Pins BOM Purchasing-28Pins_Project_V1I1.xls
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\NC Drill\28Pins_Project_V1I1_PCB-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\NC Drill\28Pins_Project_V1I1_PCB-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\NC Drill\28Pins_Project_V1I1_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.GM28
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\NC Drill\28Pins_Project_V1I1_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\BOM\28Pins BOM Manufacturing-28Pins_Project_V1I1(5V_3V3).xls
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\BOM\28Pins BOM Manufacturing-28Pins_Project_V1I1(FIXED 5V).xls
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\BOM\28Pins BOM Purchasing-28Pins_Project_V1I1(5V_3V3).xls
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\BOM\28Pins BOM Purchasing-28Pins_Project_V1I1(FIXED 5V).xls
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\BOM\28Pins BOM Purchasing-28Pins_Project_V1I1.xls
+DItemRevisionGUID=
+
+[GeneratedDocument24]
 DocumentPath=Project Outputs for Free Documents\BOM\28Pins BOM Purchasing-28Pins_Project_V1I1.xls
 DItemRevisionGUID=
 
+[GeneratedDocument25]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\BOM\28Pins Component reference BOM-28Pins_Project_V1I1(5V_3V3).xls
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\BOM\28Pins Component reference BOM-28Pins_Project_V1I1(FIXED 5V).xls
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\BOM\28Pins Component reference grouped-28Pins_Project_V1I1(5V_3V3).xls
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\BOM\28Pins Component reference grouped-28Pins_Project_V1I1(FIXED 5V).xls
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\Design Rule Check - 28Pins_Project_V1I1_PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\Pick Place\Pick Place for 28Pins_Project_V1I1_PCB(FIXED 5V).txt
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Title
-Value=28Pins
+Name=VersionRevision
+Value=v1I1
 
 [Parameter2]
-Name=VersionRevision
-Value=v1
+Name=Title
+Value=28Pins
 
 [Parameter3]
 Name=Project
@@ -229,6 +530,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for 28Pins_Project_V1I1
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1151,6 +1455,12 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=+3V3|NetColor=$00FF6EFF
+Net2=NetName=+5V|NetColor=$000083FD
+Net3=NetName=+5V/3V3|NetColor=$006EFF6E
+Net4=NetName=GND|NetColor=$00FF6E6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
