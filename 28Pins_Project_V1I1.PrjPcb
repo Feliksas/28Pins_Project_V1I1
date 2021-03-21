@@ -30,7 +30,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for 28Pins_Project_V1I1
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -212,11 +212,11 @@ AllowFabrication=0
 ParameterCount=0
 VariationCount=6
 Variation1=Designator=Y1|UniqueId=\SASDYWWE|Kind=2|AlternatePart=ABM7-10.000MHZ-D2Y-T|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\Public\Documents\Altium\Projects\28Pins_Project_V1I1\28Pins_Project_V1I1.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=ABM7-10.000MHZ-D2Y-T|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=28Pins_Project_V1I1.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=ABM7_v1_1_BIG|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Case/Package|VariantValue=SMD/SMT
+ParamVariation1=ParameterName=Comment|VariantValue=ABM7-10.000MHZ-D2Y-T
 ParamDesignator1=Y1
-ParamVariation2=ParameterName=Category|VariantValue=Crystals
+ParamVariation2=ParameterName=Case/Package|VariantValue=SMD/SMT
 ParamDesignator2=Y1
-ParamVariation3=ParameterName=Comment|VariantValue=ABM7-10.000MHZ-D2Y-T
+ParamVariation3=ParameterName=Category|VariantValue=Crystals
 ParamDesignator3=Y1
 ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator4=Y1
@@ -273,11 +273,11 @@ ParamDesignator29=Y1
 ParamVariation30=ParameterName=Supplier Part Number 1|VariantValue=535-9833-1-ND
 ParamDesignator30=Y1
 Variation2=Designator=Y2|UniqueId=\AWMBQGWJ|Kind=2|AlternatePart=ABM7-8.000MHZ-D2Y-T|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\Public\Documents\Altium\Projects\28Pins_Project_V1I1\28Pins_Project_V1I1.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=ABM7-8.000MHZ-D2Y-T|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=28Pins_Project_V1I1.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=ABM7_v1_1_BIG|AltLibLink_IsSameFootprint=True
-ParamVariation31=ParameterName=Case/Package|VariantValue=CSMD
+ParamVariation31=ParameterName=Comment|VariantValue=ABM7-8.000MHZ-D2Y-T
 ParamDesignator31=Y2
-ParamVariation32=ParameterName=Category|VariantValue=Crystals
+ParamVariation32=ParameterName=Case/Package|VariantValue=CSMD
 ParamDesignator32=Y2
-ParamVariation33=ParameterName=Comment|VariantValue=ABM7-8.000MHZ-D2Y-T
+ParamVariation33=ParameterName=Category|VariantValue=Crystals
 ParamDesignator33=Y2
 ParamVariation34=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator34=Y2
@@ -382,144 +382,28 @@ Variation6=Designator=R28|UniqueId=\BGLCXGPA|Kind=1|AlternatePart=
 ParamVariationCount=81
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\NC Drill\28Pins_Project_V1I1_PCB-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\NC Drill\28Pins_Project_V1I1_PCB-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\NC Drill\28Pins_Project_V1I1_PCB.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.GM28
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\NC Drill\28Pins_Project_V1I1_PCB.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\Gerber\28Pins_Project_V1I1_PCB.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\BOM\28Pins BOM Manufacturing-28Pins_Project_V1I1(5V_3V3).xls
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\BOM\28Pins BOM Manufacturing-28Pins_Project_V1I1(FIXED 5V).xls
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\BOM\28Pins BOM Purchasing-28Pins_Project_V1I1(5V_3V3).xls
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\BOM\28Pins BOM Purchasing-28Pins_Project_V1I1(FIXED 5V).xls
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\BOM\28Pins BOM Purchasing-28Pins_Project_V1I1.xls
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for Free Documents\BOM\28Pins BOM Purchasing-28Pins_Project_V1I1.xls
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\BOM\28Pins Component reference BOM-28Pins_Project_V1I1(5V_3V3).xls
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\BOM\28Pins Component reference BOM-28Pins_Project_V1I1(FIXED 5V).xls
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\BOM\28Pins Component reference grouped-28Pins_Project_V1I1(5V_3V3).xls
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\BOM\28Pins Component reference grouped-28Pins_Project_V1I1(FIXED 5V).xls
-DItemRevisionGUID=
-
-[GeneratedDocument29]
 DocumentPath=Project Outputs for 28Pins_Project_V1I1\Design Rule Check - 28Pins_Project_V1I1_PCB.html
 DItemRevisionGUID=
 
-[GeneratedDocument30]
-DocumentPath=Project Outputs for 28Pins_Project_V1I1\Pick Place\Pick Place for 28Pins_Project_V1I1_PCB(FIXED 5V).txt
-DItemRevisionGUID=
-
 [Parameter1]
-Name=VersionRevision
-Value=v1I1
+Name=Company
+Value=LionWiring, INC
 
 [Parameter2]
-Name=Title
-Value=28Pins
+Name=NotFitted
+Value=NF
 
 [Parameter3]
 Name=Project
 Value=28Pins
 
 [Parameter4]
-Name=NotFitted
-Value=NF
+Name=Title
+Value=28Pins
 
 [Parameter5]
-Name=Company
-Value=LionWiring, INC
+Name=VersionRevision
+Value=v1I1
 
 [Configuration1]
 Name=Sources
@@ -532,7 +416,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for 28Pins_Project_V1I1
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -643,7 +527,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Samsung M2070 Series
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]

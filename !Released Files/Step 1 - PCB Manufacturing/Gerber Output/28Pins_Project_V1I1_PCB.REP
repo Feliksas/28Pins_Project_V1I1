@@ -2,8 +2,75 @@
 FileName = 28Pins_Project_V1I1_PCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : L2
-      File : 28Pins_Project_V1I1_PCB.GBL
+Generating : Board Oultine
+      File : 28Pins_Project_V1I1_PCB.GM28
+
+    Adding Layer      : Board Oultine
+
+
+Used DCodes :
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Licence
+      File : 28Pins_Project_V1I1_PCB.GM4
+
+    Adding Layer      : Licence
+
+
+Used DCodes :
+    D77
+*************************************************************
+
+*************************************************************
+Generating : Manufacturing Notes
+      File : 28Pins_Project_V1I1_PCB.GM3
+
+    Adding Layer      : Manufacturing Notes
+
+
+Used DCodes :
+    D10
+    D11
+    D76
+    D77
+    D91
+*************************************************************
+
+*************************************************************
+Generating : Mechanical Drawing
+      File : 28Pins_Project_V1I1_PCB.GM2
+
+    Adding Layer      : Mechanical Drawing
+
+
+Used DCodes :
+    D77
+    D91
+    D92
+    D93
+    D94
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : 28Pins_Project_V1I1_PCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D91
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : 28Pins_Project_V1I1_PCB.GBS
+
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : L2
 
@@ -11,83 +78,19 @@ Generating : L2
 
 
 Used DCodes :
-    D11
-    D12
-    D19
-    D36
-    D38
-    D39
-    D75
-    D76
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : 28Pins_Project_V1I1_PCB.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : 28Pins_Project_V1I1_PCB.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : L1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D12
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
+    D43
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
 *************************************************************
 
 *************************************************************
@@ -102,9 +105,12 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D11
+    D36
+    D37
     D38
+    D39
     D40
+    D41
     D42
     D43
     D44
@@ -134,17 +140,87 @@ Used DCodes :
     D68
     D69
     D70
-    D71
-    D72
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : 28Pins_Project_V1I1_PCB.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : 28Pins_Project_V1I1_PCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : L2
+      File : 28Pins_Project_V1I1_PCB.GBL
+
+    Adding Layer      : L2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D21
+    D35
+    D64
+    D65
     D73
-    D74
-    D75
     D76
-    D77
-    D78
-    D79
     D80
     D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
 *************************************************************
 
 *************************************************************
@@ -181,49 +257,8 @@ Used DCodes :
     D33
     D34
     D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D75
-    D76
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : 28Pins_Project_V1I1_PCB.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : L2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D38
-    D40
-    D47
+    D64
     D65
-    D67
-    D70
     D71
     D72
     D73
@@ -235,70 +270,14 @@ Used DCodes :
     D79
     D80
     D81
-*************************************************************
-
-*************************************************************
-Generating : Mechanical Drawing
-      File : 28Pins_Project_V1I1_PCB.GM2
-
-    Adding Layer      : Mechanical Drawing
-
-
-Used DCodes :
+    D82
+    D83
     D84
-    D96
-    D97
-    D98
-    D99
-*************************************************************
-
-*************************************************************
-Generating : Manufacturing Notes
-      File : 28Pins_Project_V1I1_PCB.GM3
-
-    Adding Layer      : Manufacturing Notes
-
-
-Used DCodes :
-    D10
-    D11
-    D39
-    D84
-    D96
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : 28Pins_Project_V1I1_PCB.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D96
-*************************************************************
-
-*************************************************************
-Generating : Board Oultine
-      File : 28Pins_Project_V1I1_PCB.GM28
-
-    Adding Layer      : Board Oultine
-
-
-Used DCodes :
-    D36
-*************************************************************
-
-*************************************************************
-Generating : Licence
-      File : 28Pins_Project_V1I1_PCB.GM4
-
-    Adding Layer      : Licence
-
-
-Used DCodes :
-    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
 *************************************************************
 
